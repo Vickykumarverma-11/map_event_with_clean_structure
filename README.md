@@ -1,16 +1,18 @@
-# flutter_demo_test
+# 📱 Flutter Demo Test
 
-A new Flutter project.
+A new Flutter project demonstrating a map and events with clean architecture interactive map UI with animated event markers and a custom bottom navigation bar.
 
-## Getting Started
+## 🚀 Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter mobile application using:
 
-A few resources to get you started if this is your first Flutter project:
+- Google Maps with dark theme styling
+- BLoC state management
+- Animated markers
+- Bottom sheet with event list
+- Custom bottom navigation with animated fire button
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
